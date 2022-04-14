@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafiqnur007
-- 👀 I’m interested in CTF and cyber security. 
+- 👀 I’m interested in CTF,Bug Hunting and cyber security. 
 - 🌱 I’m currently learning cyber security. 
 - 💞️ I’m looking to collaborate on Forensics.
 - 

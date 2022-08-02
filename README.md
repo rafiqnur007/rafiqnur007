@@ -7,7 +7,7 @@
 -Details:
       -Name: Rafiq Nur 
       -Located_in: Chittagong ,Bangladesh
-      -Job: source code reviewer &Security Researcher
+      -Job: Developer & Security Researcher
       
 -
 

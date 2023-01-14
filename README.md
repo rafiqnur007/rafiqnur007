@@ -28,7 +28,18 @@
 
 ### :woman_technologist: About Me :
 
-I am Rafiq Nur  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Bangladesh 
+
+- :telescope: I’m working as a Security Researcher And Contributing some Research project 
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on cryptography and Digital  forensic  and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin](<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white>)](https://www.linkedin.com/in/rafiqnur)
+OR Mail - nusec0@proton.me
+ 
+
 
 
 

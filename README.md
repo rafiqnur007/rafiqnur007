@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rafiq Nur(nusec)</h1>
-<h3 align="center">A passionate Security Researchers And CTF player from Bangladesh 🇧🇩</h3>
+<h3 align="center"> A passionate boy who loves both the red team and the blue team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqnur007&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqnur007" /> </p>
 
